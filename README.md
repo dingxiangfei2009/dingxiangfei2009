@@ -1,4 +1,6 @@
-## wieDasDing
+<img src="./banner.jpeg"></img>
+
+## About my work
 
 <img src="./avatar.jpeg"></img>
 

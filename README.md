@@ -1,5 +1,7 @@
 <img src="./banner.jpeg"></img>
 
+_by @mdash3_
+
 <details>
 <summary>About my work</summary>
 

@@ -1,8 +1,10 @@
 <img src="./banner.jpeg"></img>
 
-## About my work
+<details>
+<summary>About my work</summary>
 
 <img src="./avatar.jpeg"></img>
+</details>
 
 <!--
 **dingxiangfei2009/dingxiangfei2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

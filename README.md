@@ -6,6 +6,8 @@ _by @mdash3_
 <summary>About my work</summary>
 
 <img src="./avatar.jpeg"></img>
+
+_by @mdash3_
 </details>
 
 <!--
